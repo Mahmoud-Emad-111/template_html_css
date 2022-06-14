@@ -1602,7 +1602,7 @@ color: var(--main-color);
     padding-top:var(--main-padding);
     position: relative;
     padding-bottom:var(--main-padding);
-    background-image: url(../tembelet/imgs/stats.jpg);
+    background-image: url(./imgs/stats.jpg);
     background-size:cover;
 }
 .stats::before{
@@ -1697,7 +1697,7 @@ color: var(--main-color);
     position: relative;
 }
 .dirction .discound{
-    background-image: url(../tembelet/imgs/discount-background1.jpg);
+    background-image: url(./imgs/discount-background1.jpg);
     background-size: cover;
     position: relative;
     flex-basis:50% ;
